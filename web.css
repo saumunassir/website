@@ -1,0 +1,64 @@
+h1 {
+  font-family: Lobster, monospace;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 40px;
+  padding: 1.5em;
+  height: 20px;
+  font-style: italic;
+  text-decoration: underline;
+  font-weight: bold;
+  text-decoration: line-through;
+  text-align: center;
+  padding: 10px;
+  background-color: rgba(45, 45, 45, 0.1);
+}
+body {
+  background-color: white;
+  color: black;
+  font-family: monospace;
+}
+.pink-text{
+  color: pink !important;
+}
+.blue-text{
+  color: blue;
+}
+#orange-text{
+  color: orange;
+p {
+    font-size: 16px;
+    font-family: monospace;
+    padding: 40px 20px 20px 40px;
+    margin: 40px 20px 20px 40px;
+  }
+  .larger-image {
+    width: 1000px;
+    border-radius: 10px;
+  }
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
+    border-radius:50%;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 40px;
+  }
+  .silver-background{
+    background-color: silver;
+  }
+  #saumuyummies-form {
+    background-color: green;
+  }
+  .fullCard {
+    width: 245px;
+
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 4px;
+  }
